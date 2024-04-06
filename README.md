@@ -38,4 +38,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - [JudeCR](https://github.com/JudeCR)
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/JudeCR/paidscript/blob/main/LICENSE).
