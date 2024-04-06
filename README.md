@@ -35,7 +35,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6. Create a new Pull Request.
 
 ## Authors
-- [Your Name](https://github.com/JudeCR)
+- [JudeCR](https://github.com/JudeCR)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
